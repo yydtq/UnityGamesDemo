@@ -5,7 +5,7 @@
 中文字体文件放置到UnityGamesDemo\Assets\Fonts中：
 链接: https://pan.baidu.com/s/12ifB0SqspJVwppQnrWbLeQ 提取码: qtnj
 
-libburst-llvm-15.dylib文件：
+libburst-llvm-15.dylib文件：放置到UnityGamesDemo\Library\PackageCache\com.unity.burst@1.8.9\.Runtime中
 链接: https://pan.baidu.com/s/1C34AicbvhhsB3fKqC8Hgvw 提取码: nu67
 
 
